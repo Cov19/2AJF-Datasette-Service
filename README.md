@@ -1,6 +1,10 @@
-# Datasette for CSV files
+# Datasette for 2AJF
 
-Drag and drop any CSV files you like to this project root and they will be converted into a SQLite database and loaded into a Datasette instance.
+Drag and drop the CSV file to the project root and it will be converted into a SQLite database and loaded into a Datasette instance.
+
+This is a Datasette for the [2AJF](https://www.rcsb.org/structure/2AJF) structure, all rights of the protien, data and structure go to its respective owners. 
+
+DOI: [10.2210/pdb2AJF/pdb](10.2210/pdb2AJF/pdb)
 
 Hit this Remix button to get your own copy of this project:
 
